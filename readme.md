@@ -1,4 +1,4 @@
-# ST1 Coursework
+# OpenJuice (OJ): Multispectral sensor spectrophotometer for fruit juice quality inspection
 
 Sensor Technologies and Applications coursework 16/12/2025.
 
