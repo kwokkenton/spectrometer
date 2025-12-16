@@ -1,9 +1,6 @@
 /.DS_Store
 /20251214_spectrum_data.csv
-/analysis.ipynb
 /data
-/gui.py
-/model.py
 /plots
 /record.py
 /record_2.py
